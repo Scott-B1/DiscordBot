@@ -1,0 +1,3 @@
+include:
+  - project: shield-ninja/home-lab/gitlab-ci
+    file: /container-build.yml
