@@ -1,5 +1,5 @@
 # DiscordBot
-An earlier version of my discord bot, ported from my private repository.
+An earlier (partially redacted) version of my discord bot, ported from my private repository.
 
 Once setup, run using `node mybot.js`
 
